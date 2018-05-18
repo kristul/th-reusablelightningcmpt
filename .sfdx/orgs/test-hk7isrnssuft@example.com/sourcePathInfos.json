@@ -1,0 +1,244 @@
+[
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526485599164,
+            "changeTime": 1526485599164,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526485599165,
+            "changeTime": 1526485599165,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830342,
+            "changeTime": 1526586830342,
+            "contentHash": "86a3da8603c04f4622dafa243af3ee8a33390717"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526485599165,
+            "changeTime": 1526485599165,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526485609340,
+            "changeTime": 1526485609340,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt\\fields\\Badge_Color__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt\\fields\\Badge_Color__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2252,
+            "modifiedTime": 1526586830279,
+            "changeTime": 1526586830279,
+            "contentHash": "77f75252de209e06153e785007cb65b8cf855ec4"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Subscription_Superpower.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Subscription_Superpower.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1045,
+            "modifiedTime": 1526586830290,
+            "changeTime": 1526586830290,
+            "contentHash": "731ae4db9b1b4cbac62eb94ee945375f63096731"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Syndication_Superpower.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Syndication_Superpower.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1526586830314,
+            "changeTime": 1526586830314,
+            "contentHash": "460862f9cfbe47fec9f09d8a66d2e087d7c27a52"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Vlog.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Vlog.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1003,
+            "modifiedTime": 1526586830320,
+            "changeTime": 1526586830320,
+            "contentHash": "860c1cbd8bf6cc3cbe4d6d7a017ce16e094d79b0"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Syndication_Rockstar.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Syndication_Rockstar.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1031,
+            "modifiedTime": 1526586830326,
+            "changeTime": 1526586830326,
+            "contentHash": "6f27e190552c02dfe8212b537a990da78cebe5ac"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Needs_Some_Love.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Needs_Some_Love.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1032,
+            "modifiedTime": 1526586830333,
+            "changeTime": 1526586830333,
+            "contentHash": "5a37403bf8c476c88bc23d3bc90e70bb60619b42"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Audience_Favorite.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata\\Indicator_Badge.Audience_Favorite.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1034,
+            "modifiedTime": 1526586830339,
+            "changeTime": 1526586830339,
+            "contentHash": "15bc30ca48e2650b73c640c60141fbf5ac3a2913"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2515,
+            "modifiedTime": 1526586830346,
+            "changeTime": 1526586830346,
+            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830276,
+            "changeTime": 1526586830276,
+            "contentHash": "fd0d185e7d1056bc98dd8b1f634066d06d5d2d35"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects\\Indicator_Badge__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830274,
+            "changeTime": 1526586830274,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830274,
+            "changeTime": 1526586830274,
+            "contentHash": "a7b676303d991566af017276a3601aeacf043858"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830335,
+            "changeTime": 1526586830335,
+            "contentHash": "a5b102c009806c0205ce6546ce6b29d431191fb6"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\SFDXProjects\\th-reusablelightningcmpt\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526586830343,
+            "changeTime": 1526586830343,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+        }
+    ]
+]
